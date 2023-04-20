@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [williamahern-com](https://github.com/wi11ahern/williamahern-com.git)
 
-- 🌱 I’m currently learning **Frontend technologies such as React and Redux!**
+- 🌱 I’m currently learning **Frontend technologies such as React, Redux, and Tailwind CSS!**
 
 - 💬 Ask me about **AWS, Infrastructure as Code (IaC), DevOps, React / Frontend, or any other SWE topics!**
 

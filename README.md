@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **AWS, Infrastructure as Code (IaC), DevOps, React / Frontend, or any other SWE topics!**
 
-- 📫 How to reach me **willdahern@gmail.com**
+- 📫 How to reach me **hello.im.will@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
